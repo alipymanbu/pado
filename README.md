@@ -1,152 +1,27 @@
-<div align="center">
-  <img src="docs/images/banner_1.0.0.svg" width="100%">
-</div>
+# Pado
 
-<h1 align="center">PADO</h1>
-<h3 align="center">Pytorch Automatic Differentiable Optics</h3>
+本仓库是「Pado」的安卓版本获取入口，附使用资料索引。
 
-<p align="center">
-  <a href="https://shwbaek.github.io/pado">📚 Documentation</a>•
-  <a href="#-quickstart">🚀 Quickstart</a> •
-  <a href="#-features">✨ Features</a> •
-  <a href="#%EF%B8%8F-installation">⚙️ Installation</a> •
-  <a href="#-license">📄 License</a>
-</p>
-<p align="center">
-  <img alt="Python Version" src="https://img.shields.io/badge/python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.10%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.24%2B-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3.7%2B-FF5733?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-1.10%2B-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-F7DF1E?style=for-the-badge">
-</p>
+## 安装文件资源（夸克网盘）
 
----
+> **Pado 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7d9379412b23](https://pan.quark.cn/s/7d9379412b23)
 
-## 📋 Overview
+## 官方项目
 
-🌊**PADO** (파도) is a cutting-edge framework for differentiable optical simulations powered by PyTorch. Inspired by the Korean word for "wave," PADO enables seamless and fully differentiable simulation workflows, perfect for researchers and developers in optical physics, computational imaging, and beyond.
+- 上游项目：[shwbaek/pado](https://github.com/shwbaek/pado)
 
-<div align="center">
-  <img src="docs/images/interconnection.svg" width="100%">
-</div>
+## 更多资料
+
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [365打卡活动规则与恋爱金](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/365%E6%89%93%E5%8D%A1%E6%B4%BB%E5%8A%A8%E8%A7%84%E5%88%99%E4%B8%8E%E6%81%8B%E7%88%B1%E9%87%91.md)
+- [会员价格与自动续费关闭方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E4%BC%9A%E5%91%98%E4%BB%B7%E6%A0%BC%E4%B8%8E%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%85%B3%E9%97%AD%E6%96%B9%E6%B3%95.md)
+- [匹配码组队与登录方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E5%8C%B9%E9%85%8D%E7%A0%81%E7%BB%84%E9%98%9F%E4%B8%8E%E7%99%BB%E5%BD%95%E6%96%B9%E6%B3%95.md)
+- [定位不更新与消息收不到的排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E5%AE%9A%E4%BD%8D%E4%B8%8D%E6%9B%B4%E6%96%B0%E4%B8%8E%E6%B6%88%E6%81%AF%E6%94%B6%E4%B8%8D%E5%88%B0%E7%9A%84%E6%8E%92%E6%9F%A5.md)
+- [实时定位与足迹查看教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E5%AE%9E%E6%97%B6%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%B6%B3%E8%BF%B9%E6%9F%A5%E7%9C%8B%E6%95%99%E7%A8%8B.md)
+- [开位置共享前要约定的几件事](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E5%BC%80%E4%BD%8D%E7%BD%AE%E5%85%B1%E4%BA%AB%E5%89%8D%E8%A6%81%E7%BA%A6%E5%AE%9A%E7%9A%84%E5%87%A0%E4%BB%B6%E4%BA%8B.md)
+- [隐私设置与账号注销方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Pado/%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E4%B8%8E%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E6%B3%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-## ✨ Features
-
-- 🔥 **Fully Differentiable:** Integrates effortlessly with PyTorch Autograd.
-- 🏎️ **CUDA Acceleration:** Leverages GPU hardware for ultra-fast simulations.
-- 🧩 **Modular Components:** Easily customizable optical elements and simulation environments.
-- 📊 **Visualization Tools:** Rich visualization with Matplotlib.
-- ⚡ **Easy-to-use API:** Beginner-friendly API for rapid experimentation.
-
----
-
-## ⚙️ Installation
-
-PADO 1.1.0 requires Python 3.10 or later and PyTorch 2.10 or later. Install the
-PyTorch build appropriate to your CPU or CUDA system, then install the release:
-
-```bash
-python -m pip install "https://github.com/shwbaek/pado/releases/download/1.1.0/pado_optics-1.1.0-py3-none-any.whl"
-```
-
-PyTorch is the only required dependency. NumPy array/file operations, Matplotlib
-plots and SciPy MAT files are optional; install these APIs together with:
-
-```bash
-python -m pip install "pado-optics[array,viz,mat] @ https://github.com/shwbaek/pado/releases/download/1.1.0/pado_optics-1.1.0-py3-none-any.whl"
-```
-
-This version is released on GitHub; PyPI publication is separate.
-
-Or install the tagged source directly from GitHub:
-
-```bash
-pip install git+https://github.com/shwbaek/pado.git@1.1.0
-```
-
-For development installation:
-
-```bash
-git clone https://github.com/shwbaek/pado.git
-cd pado
-pip install -e .
-```
-
----
-
-## 📚 Documentation
-
-Comprehensive documentation is available at [https://shwbaek.github.io/pado](https://shwbaek.github.io/pado).
-
-For 1.1.0, read the [migration notes](https://shwbaek.github.io/pado/migration.html):
-existing APIs remain available, but corrected numerical results require
-revalidation of downstream simulations.
-
----
-
-## 🚀 Quickstart
-
-PADO includes a comprehensive set of example notebooks organized by topic:
-
-### Exploring Examples
-
-Browse our examples by category:
-
-- **[1. Basics](./example/1_Basics/)**
-  - [1.1 Pado fundamentals](./example/1_Basics/1.1_Pado_fundamentals.ipynb) - Learn about core components and building blocks
-  - [1.2 RGB multi-wavelength](./example/1_Basics/1.2_RGB_multi_wavelength.ipynb) - Working with multiple wavelengths
-  - [1.3 4-F with batch](./example/1_Basics/1.3_4-F_with_batch.ipynb) - Batch processing in 4-F systems
-  - [1.4 How to use ASM options](./example/1_Basics/1.4_How2use_ASM_options.ipynb) - Angular Spectrum Method configuration
-
-- **[2. Computer Generated Holography](./example/2_Computer_Generated_Holography/)**
-  - [2.1 DPAC](./example/2_Computer_Generated_Holography/2.1_DPAC.ipynb) - Double Phase Amplitude Coding
-  - [2.2 Multi-depth CGH](./example/2_Computer_Generated_Holography/2.2_multi_depth_cgh.ipynb) - Multi-plane holography
-  - [2.3 CGH optimization](./example/2_Computer_Generated_Holography/2.3_cgh_optimization_gs_sgd_adam.ipynb) - GS, SGD, and Adam methods
-  - [2.4 Multi-depth hologram with Adam](./example/2_Computer_Generated_Holography/2.4_multi_depth_hologram_generation_using_adam.ipynb) - Complex loss-based optimization
-  - [2.5 Phase-only SLM optimization](./example/2_Computer_Generated_Holography/2.5_cgh_optimization_with_phase_only_slm.ipynb) - Optimization with phase-only spatial light modulators
-  - [2.6 Multi-depth hologram with phase-only SLM](./example/2_Computer_Generated_Holography/2.6_multi_depth_hologram_generation_using_adam_with_phase_only_slm.ipynb) - Multi-plane optimization with phase-only SLMs
-
-- **[3. Coded Imaging](./example/3_Coded_Imaging/)**
-  - [3.1 Lens comparison](./example/3_Coded_Imaging/3.1_lens_comparison.ipynb) - Different lens models and wavefront observation
-  - [3.2 Coded aperture comparison](./example/3_Coded_Imaging/3.2_coded_aperture_comparison.ipynb) - Coded aperture techniques
-  - [3.3 Seeing through DOE](./example/3_Coded_Imaging/3.3_seeing_through_doe.ipynb) - Imaging through diffractive optical elements
-
-- **[4. Polarization Imaging](./example/4_Polarization_Imaging/)**
-  - [4.1 Polarization light](./example/4_Polarization_Imaging/4.1_polarization_light.ipynb) - Polarized light simulation
-
-- **[5. Advanced Applications](./example/5_Advanced_Applications/)**
-  - [5.1 Chromatic aberration singlet](./example/5_Advanced_Applications/5.1_chromatic_aberration_singlet.ipynb) - Chromatic aberration simulation
-
----
-
-## ℹ️ About
-
-Developed and maintained by the [POSTECH Computer Graphics Lab](http://cg.postech.ac.kr/).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 📝 Citation
-
-If you use Pado in your research, please cite Pado using the following BibText template:
-
-```bib
-@misc{Pado,
-   Author = {Seung-Hwan Baek, Dong-Ha Shin, Yujin Jeon, Seung-Woo Yoon, Eunsue Choi, Gawoon Ban, Hyunmo Kang},
-   Year = {2025},
-   Note = {https://github.com/shwbaek/pado},
-   Title = {Pado: Pytorch Automatic Differentiable Optics}
-}
-```
-
-<div align="center">
-  <img src="docs/images/footer_1.0.0.svg" width="100%">
-</div>
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/shwbaek/pado)。
